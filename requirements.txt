@@ -1,0 +1,6 @@
+numpy
+matplotlib
+plotly
+scikit-fuzzy
+pygame
+networkx
