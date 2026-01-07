@@ -14,7 +14,7 @@ Lab assignments for the course "Control of Intelligent Robots and Robotic System
 | 2 | `laba_2_A.py` … `laba_2_E.py` | Grid path search with rectangular and circular obstacles: Dijkstra, A* (Manhattan and Euclidean heuristics), a simplified D* Lite. Comparison by time and number of visited cells |
 | 3 | `laba_3/A.py` | Artificial potential fields: attraction to the goal, repulsion from obstacles within an influence zone |
 | 4 | `laba_4.py`, `laba_4_b.py` | A fuzzy controller in scikit-fuzzy: from the left, front and right distances and the angle to the goal it chooses the turn and the speed. `laba_4_b.py` adds 11 rules, parameter adaptation and a motion animation |
-| 5 | `laba_5/A.py`, `B.py`, `C.py` | RRT and RRT* (best-parent choice and rewiring), rectangular and circular obstacles, tree growth animation |
+| 5 | `laba_5/A.py`, `B.py`, `C.py`, `rrt_animation.py` | RRT and RRT* (best-parent choice and rewiring), rectangular and circular obstacles, tree growth animation. `rrt_animation.py` (January 2026) shows the tree growing in real time or saves it as a GIF |
 | 6 | `laba_6.py` | A genetic algorithm for Himmelblau's function: selection, crossover, mutation, interactive convergence plots in Plotly |
 
 ## Run results
