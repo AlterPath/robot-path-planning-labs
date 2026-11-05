@@ -72,3 +72,7 @@ python -c "from laba_2_E import PathPlanningBenchmark as B; b = B(50, 50); b.set
 ## License
 
 [MIT](LICENSE)
+
+---
+
+<sub>The code was written from October 2025 to January 2026 and published on GitHub in November 2026. Commit dates follow the dates of the original files; the README and figures were added at publication.</sub>
